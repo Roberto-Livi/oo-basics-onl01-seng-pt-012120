@@ -7,4 +7,3 @@ class Shoe
   end
 end
 
-adidas = Shoe.new("Adidas")
